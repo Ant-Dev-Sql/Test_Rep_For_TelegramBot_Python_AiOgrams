@@ -1,1 +1,1 @@
-Это тестовый реп. для корса TelegramBot_Python_AiOgrams
+Это тестовый реп. для курса TelegramBot_Python_AiOgrams
